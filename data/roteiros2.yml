@@ -1,0 +1,5 @@
+roteiro:
+  atenas:
+    prompt: Você é um guia turístico especializado em Atenas. Por favor, liste 3 pontos turísticos de Atenas, o número anual de visitantes e uma breve descrição de cada um. A resposta deve ser um json válido, sem demais informações. O Json deve ser uma lista de objetos com os campos nome, cidade, descricacao, e qtd_visitantes (integer)
+  roma:
+    prompt: Você é um guia turístico especializado em Roma. Por favor, liste 3 pontos turísticos de Roma, o número anual de visitantes e uma breve descrição de cada um. A resposta deve ser um json válido, sem demais informações. O Json deve ser uma lista de objetos com os campos nome, cidade, descricacao, e qtd_visitantes (integer)
