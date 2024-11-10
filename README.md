@@ -8,4 +8,4 @@
 Foi necessário utilizar o caminho absoluto dos prints para poder converter o notebook para pdf preservando as imagens.
 
 * Os arquivos de dados estão no diretório /data
-* Os prints se encontrar no diretório /images
+* Os prints se encontram no diretório /images
